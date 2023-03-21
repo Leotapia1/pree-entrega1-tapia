@@ -1,0 +1,21 @@
+.container_nav{
+    background-color: black;
+    color: #00fca8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+}
+.container_nav a{
+    color: white;
+    padding: 2rem;
+    text-decoration: none;
+    border-right: #00fca8 2px solid;
+}
+.container_nav a:hover{
+    color:#00fca8;
+}
+.carrito{
+    color: white;
+    display: flex;
+}
