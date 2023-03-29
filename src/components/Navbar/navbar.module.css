@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(0, 0, 0);
+  color: #00fca8;
+  text-decoration: none;
+  align-items: baseline;
+  height: 100px;
+  align-items: center;
+}
+.container p{
+  color: white;
+  text-decoration: none;
+  border-right: #00fca8 2px solid;
+  padding: 1rem;
+}
+p {
+  text-decoration: none;
+}
